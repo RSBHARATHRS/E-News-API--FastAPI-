@@ -13,8 +13,9 @@ import data
 
 app = FastAPI()
 origins = [
-    "http://localhost:8100",
+    "*",
 ]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
