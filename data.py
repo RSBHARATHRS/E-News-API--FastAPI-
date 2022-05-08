@@ -75,7 +75,7 @@ news = [
         },
         "imageUrl": "https://possible11.s3.ap-south-1.amazonaws.com/ipl/2022/tata-IPL-2022.jpg",
         "category": {
-            "english": "Sprots",
+            "english": "Sports",
             "tamil": "விளையாட்டு"
         }
     },
@@ -181,7 +181,7 @@ news = [
         },
         "imageUrl": "https://images.unsplash.com/photo-1592844002373-a55ecd7af140?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aW5kaWFuJTIwcmFpbHdheXxlbnwwfHwwfHw%3D&w=1000&q=80",
         "category": {
-            "english": "Central government"
+            "english": "Development"
         }
     },
     {
