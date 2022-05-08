@@ -164,7 +164,7 @@ news = [
             "english": "It has been announced that the work of evaluating the Plus 2 general examination answer sheet will start on June 1.The farewell evaluation is set to begin on June 1. On the first day, the Chief Assessor and on the 2nd the Assistant Assessors are to edit the answer sheets.Thereafter, from the 28th, it will be sent to 80 correctional centers across the state. The final list will be sent to the State Examinations Department by June 15 after completion of tasks such as preparation of the score list. The results will be released on June 23.",
             "tamil": "பிளஸ் 2 பொதுத் தேர்வு விடைத்தாள் மதிப்பிடும் பணி, ஜூன் 1ல் துவங்கும் என அறிவிக்கப்பட்டுள்ளது.ஜூன் 1ல் விடைத்தாள் மதிப்பீடு துவங்க உள்ளது. முதல் நாளில், தலைமை மதிப்பீட்டாளரும், 2ம் தேதி முதல் உதவி மதிப்பீட்டாளர்களும் விடைத்தாள்களை திருத்த உள்ளனர்.முன்னதாக, வரும் 14ம் தேதி முதல், ஒவ்வொரு தேர்வுக்கான விடைத்தாள்களும், மண்டல மையங்களுக்கு அனுப்பப்பட உள்ளன.அதன்பின், 28ம் தேதி முதல், மாநிலம் முழுதும் உள்ள 80 திருத்தும் மையங்களுக்கு அனுப்பப்பட உள்ளன.விடைத்தாள் மதிப்பீட்டு பணிகள், ஜூன் 8க்குள் முடிக்கப்பட உள்ளன. மதிப்பெண் பட்டியல் தயாரித்தல் போன்ற பணிகள் முடிந்து, ஜூன் 15க்குள், அரசு தேர்வு துறைக்கு இறுதி பட்டியல் அனுப்பப்படும். ஜூன் 23ல் தேர்வு முடிவுகள் வெளியாகும்."
         },
-        "imageUrl": "https://cdn.statically.io/img/fancyodds.com/wp-content/uploads/2021/09/Indian-Defence-Shadow-Wallpaper.jpg",
+        "imageUrl": "https://media.istockphoto.com/photos/setting-the-page-on-fire-with-some-hard-work-picture-id492198113?b=1&k=20&m=492198113&s=170667a&w=0&h=CBWxkL9fuZlpUKhnYVsWzcuGGrXiYTs7kxYgOlsSUoY=",
         "category": {
             "english": "Education"
         }
